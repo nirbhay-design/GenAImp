@@ -2,15 +2,20 @@
 
 # TODO
 
-- [ ] [ContraGAN (NeurIPS 2020)](https://arxiv.org/pdf/2006.12681v3)
+- [ ] [S4](https://arxiv.org/abs/2111.00396)
+- [x] [SRGAN (CVPR 2027)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
+- [x] [DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
+
+
+<!-- - [ ] [ContraGAN (NeurIPS 2020)](https://arxiv.org/pdf/2006.12681v3)
 - [x] [SRGAN (CVPR 2027)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
 - [x] [DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
 - [ ] [LSGAN (ICCV 2017)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf)
 - [ ] [ContraD (ICLR 2021)](https://arxiv.org/pdf/2103.09742)
 - [ ] [AC-GAN (ICML 2017)](https://proceedings.mlr.press/v70/odena17a/odena17a.pdf)
-- [ ] [CGANS WITH PROJECTION DISCRIMINATOR (ICLR 2018)](https://arxiv.org/pdf/1802.05637)
+- [ ] [CGANS WITH PROJECTION DISCRIMINATOR (ICLR 2018)](https://arxiv.org/pdf/1802.05637) -->
 
-# Helpful Papers 
+<!-- # Helpful Papers 
 
 - [A Large-Scale Study on Regularization and Normalization in GANs](https://arxiv.org/pdf/1807.04720)
 - [CONSISTENCY REGULARIZATION FOR GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1910.12027)
@@ -23,7 +28,7 @@
 - No sparse gradients (no maxpool, ReLU)
 - Slow learning rate 
 - use batch normalization, LeakyReLU, dropout
-- Implement discriminator loss function in two goes 
+- Implement discriminator loss function in two goes  -->
 
 
 <!-- # Extras
